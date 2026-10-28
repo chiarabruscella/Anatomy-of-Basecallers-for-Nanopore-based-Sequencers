@@ -27,8 +27,8 @@ Sequenziamento di terza generazione · analisi del segnale nanopore · deep lear
 
 **Chiara Bruscella**: laureata in Biotecnologie Mediche e Farmaceutiche (UniBA), studentessa magistrale in Biotecnologie Mediche (UniMiB, LM-9).
 
-- LinkedIn: _[inserisci link]_
-- Email: _[inserisci email]_
+- LinkedIn: _https://www.linkedin.com/in/chiara-bruscella22_
+- Email: _chiara.bruscella@gmail.com_
 
 ## Licenza
 
